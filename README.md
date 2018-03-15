@@ -1,2 +1,2 @@
 # money
-Banking calculations made easy
+Simple financial calculations made easy
